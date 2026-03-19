@@ -12,5 +12,5 @@ Personalised Recommendations: Recommends beers based on preferences of like-mind
 
 Review Filtering: Ensures that beers already reviewed by a user are not recommended again.
 
-Tech Stack
+Tech Stack:
 Python, Pandas, Dask, Numpy
