@@ -1,4 +1,5 @@
 Beer Recommendation (Data Scraping & Collaborative Filtering)
+
 This project is a data-driven beer recommendation system built using publicly available beer forum data. It generates personalised beer suggestions by analysing user preferences and identifying similarities between users.
 
 Key Features:
